@@ -5,6 +5,12 @@ var games = [
     image: 'assets/images/add.png'
   },
   {
+    id: 'funfri',
+    title: 'FunFri Games',
+    url: 'https://funfrinew.neocities.org/',
+    image: 'https://i.ibb.co/TDbnBW9D/favicon.jpg'
+  },
+  {
     id: 'crazygames',
     title: 'Crazy Games',
     url: 'https://crazygames.com',
