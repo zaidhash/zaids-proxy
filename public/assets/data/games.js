@@ -5,6 +5,18 @@ var games = [
     image: 'assets/images/add.png'
   },
   {
+    id: 'rocketleague3d',
+    title: 'Rocket League 3D',
+    url: 'https://rocketgoal.io/',
+    image: 'https://www.softgozar.com/Image/Softwares/Thumbnail/Rocket_League_Anniversary_SoftGozar.com.png'
+  },
+  {
+    id: 'geodash',
+    title: 'Geometry Dash Metry',
+    url: 'https://1games.io/game/dashmetry/',
+    image: 'https://upload.wikimedia.org/wikipedia/en/3/35/Geometry_Dash_Logo.PNG'
+  },
+  {
     id: 'funfri',
     title: 'FunFri Games!',
     url: 'https://funfrinew.neocities.org/',
