@@ -9,7 +9,7 @@ var apps = [
       "title": "ZaidGPT",
       "url": "https://zaidgpt.vercel.app/",
       'image': 'https://i.ibb.co/99FbWcrh/chatgpt.png',
-      "description": "Note: ZaidGPT is in beta. expect some issues and inaccuracy"
+      "description": "Note: ZaidGPT uses ChatGPT Services. If the AI is used too much then it may limit you from accessing."
       
     },
     {
